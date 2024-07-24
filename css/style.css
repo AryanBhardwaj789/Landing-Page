@@ -80,6 +80,10 @@ h1, h2, h3, h4, h5, h6, figure {
   background: rgb(94, 17, 109);
 }
 
+::-webkit-scrollbar {
+  display: none;
+}
+
 #fh5co-header,
 .fh5co-cover {
   background-color: transparent;
