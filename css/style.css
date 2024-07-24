@@ -224,7 +224,7 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #fff;
 }
 #fh5co-features .services-padding {
-  padding: 7em 0;
+  padding: 7em 10em;
 }
 #fh5co-features .feature-left {
   margin-bottom: 40px;
@@ -311,7 +311,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .info {
-  margin: 0;
+  margin: 25px;
   padding: 0;
   width: 90%;
   float: left;
@@ -428,7 +428,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .timeline {
   list-style: none;
-  padding: 20px 0 20px;
+  padding: 20px 80px 20px;
   position: relative;
 }
 .timeline:before {
@@ -633,7 +633,7 @@ h1, h2, h3, h4, h5, h6, figure {
   }
 }
 .progress-wrap {
-  width: 100%;
+  width: 90%;
   float: left;
   margin-bottom: 10px;
 }
